@@ -1,0 +1,35 @@
+body {
+   background-color: rgba(252, 231, 192, 0.89);
+}
+div {
+    margin: 30px auto;
+    width: 80%;
+}
+h1 {
+    text-align: center;
+    font-family: "Times New Roman";
+    background-color: rgba(252, 214, 192, 0.89)
+}
+h2 {
+    text-align: center;
+    background-color: rgba(192, 211, 252, 0.89);
+}
+section img {
+    display: block;
+    margin: auto;
+    width: 30%;
+}
+aside img {
+    text-align: center;
+    width: 30%;
+    height: 220px;
+    margin: 3px auto;
+    border-radius: 5%;
+}
+a:hover {
+    color: purple;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
